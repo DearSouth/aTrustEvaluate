@@ -18,5 +18,8 @@
     <ClCompile Include="aTrustEvaluate.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="typeDefine.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
